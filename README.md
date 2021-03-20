@@ -15,6 +15,10 @@ pip3 install -r requirements.txt
 jupyter notebook
 ```
 
+## Open the Jupyter Notebook
+All the magic happens in `bitcoin-confirmation-safety.ipynb`.
+You can see the [result of it directly on GitHub](https://github.com/sandroboehme/bitcoin-confirmations-safety/blob/main/bitcoin-confirmation-safety.ipynb). 
+
 ## Exit virtualenv
 ``` 
 deactivate
